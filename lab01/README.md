@@ -6,13 +6,47 @@
 - Aplicar un color de fondo al `body` del documento con CSS
 - Manipular los datos con javascript y mostrarlos en otra sección.
 
+<img src="https://github.com/migsalazar/LDOO/blob/master/assets/img/01-01.png" width="300" />
+<img src="https://github.com/migsalazar/LDOO/blob/master/assets/img/01-02.png" width="300" />
+<img src="https://github.com/migsalazar/LDOO/blob/master/assets/img/01-03.png" width="300" />
+
 ## Actividad 1
 
-- Construir el html.
+- Construir el html haciendo uso de una estructura similar a la siguiente:
 
-Se debe mostrar un formulario simple, similar al de la siguiente imagen: 
+```
+<html>
+  <head>
+    <script>
+      function ejecutarFuncionEjemplo() {
+        // Código para manipular la información
+      }
+    </script>
+  </head>
+  <body style="">
+    <h1>Personas</h1>
 
-[]
+    <!-- Sección captura -->
+    <div>
+      <h2>Captura</h2>
+      <p>
+        <label>Texto ejemplo: </label> <input type="text" id="campo-ejemplo" />
+      </p>
+      <p>
+        <input type="submit" value="Enviar" onclick="funcionEjemplo()" />
+      </p>
+    </div>
+
+    <div>
+      <h2>Resultados</h2>
+      <p>
+        Texto: <label id="label-resultados-ejemplo"></label>
+      </p>
+    </div>
+  </body>
+</html>
+
+```
 
 ## Actividad 2
 

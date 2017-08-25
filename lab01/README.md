@@ -18,7 +18,7 @@
 <html>
   <head>
     <script>
-      function ejecutarFuncionEjemplo() {
+      function funcionEjemplo() {
         // Código para manipular la información
       }
     </script>

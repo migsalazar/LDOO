@@ -93,3 +93,10 @@ Ejemplo:
   </body>
 </html>
 ```
+
+# Especificaciones del Reporte
+
+- El reporte debe incluir una portada con tus datos al inicio.
+- El reporte debe contener la descripción de los pasos realizados para llevar a cabo la práctica del laboratorio. Cada paso debe contar con un fragmento de código o imagen que ilustre lo descrito. Piense en el reporte como una explicación para alguien ajeno al tema y detalle los puntos técnicos que sean necesarios.
+- Comprime en un archivo `.zip` el directorio raíz de la práctica.
+- El envío de la práctica debe incluir dos archivos: El reporte en `PDF` y el archivo `.zip` con el código fuente del proyecto.
